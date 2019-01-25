@@ -1,0 +1,52 @@
+
+||====================================================================================||
+||     		  　　　 	App：Text to Image Converter　　　   　　　　　　　　 ||
+||                               Program Language：Python 3                           || 
+||                                 Creator: Chu Quang Huy                             ||
+||                            Nagaoka University of Technology                        ||
+||                                 Created in 2019/01/18                              ||
+||====================================================================================||
+
+
+     -------------------------------- Before Running --------------------------------
+     |                                                                              |
+     |		       Make sure you got Python3 in your computer :))               |
+     |		       if you dont, here is the link to download it:                |
+     |                                                                              |
+     |		 	 ---> https://www.python.org/downloads/ <---                |
+     |                                                                              |
+     |	   	 After installed Python, add Python path to your system path        |
+     |                                                                              |
+     |         --> C:\Users\*****\AppData\Local\Programs\Python\Python37 <--        |
+     |      --> C:\Users\*****\AppData\Local\Programs\Python\Python37\Script <--    |
+     |                                                                              |
+     |                                                                              |
+     |	        Finally, Open Command Line Console and install following package.   |
+     |                                                                              |
+     |	 --> C:\Users\*****>python -m pip install Pillow                            |
+     |	 --> C:\Users\*****>python -m pip install numpy                             |
+     |	 --> C:\Users\*****>python -m pip install opencv-python                     |
+     |                                                                              |
+     ---------------------------------------*****------------------------------------
+
+
+１．Unzip.
+
+２．Install all font in Font folder
+
+３．Put your text file in the Text folder.
+
+　　Also, all the text file must follow one format that show in my "text.txt" file which
+    is already in Text Folder.
+　　
+４．Finally, in source folder, there are 2 type of file that you can run the program:
+	
+	A."source.py"for running on the Command Line
+
+	B."source.pyc" for running on the Python VM.
+
+Thats all, if you have any problem or any bright idea to improve this program, 
+please feedback to me. ^^ Thank you.
+
+
+
