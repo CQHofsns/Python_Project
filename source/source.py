@@ -38,7 +38,7 @@ def text_image(file_text_name, font_path=None):
 
     text_folder = main_directory + '\Text'
     if os.path.isfile(os.path.join(text_folder, file_text_name)):
-        print("Found" + file_text_name)
+        print("Found " + file_text_name)
         print('\n')
         path = os.path.join(text_folder, file_text_name)
     else:
@@ -105,7 +105,7 @@ def text_image(file_text_name, font_path=None):
             max_height = height
 
     for i in range(len(Content_Data)):
-        width = font.getsize(Content_Data[i])[0] - 5
+        width = font.getsize(Content_Data[i])[0] - 3
         vertical_position = 0
         horizontal_position = -2
         image = Image.new('RGBA', (width, max_height), Background_Color[i])
