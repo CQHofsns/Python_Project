@@ -26,7 +26,8 @@
      |	 --> C:\Users\*****>python -m pip install Pillow                            |
      |	 --> C:\Users\*****>python -m pip install numpy                             |
      |	 --> C:\Users\*****>python -m pip install opencv-python                     |
-     |                                                                              |
+     |   --> C:\Users\*****>python -m pip install regex                             |
+     |                                     					    |
      ---------------------------------------*****------------------------------------
 
 
