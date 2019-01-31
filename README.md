@@ -12,3 +12,7 @@ For example, I have put a example text in Text Folder. And here is its content:
 
 And here is the result:
 
+![result](https://github.com/CQHofsns/Python_Project_Text_To_Image/blob/master/For%20README.md/data.png)
+
+### WARNING: My program current can convert 1 line text file, which mean 2 line above text file will not work !! (Sorry I still working on it  :sweat: )
+
