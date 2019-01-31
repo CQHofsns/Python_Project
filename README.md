@@ -8,7 +8,7 @@ Python_Project_Text_To_Image is a program that convert the content that you wrot
 
 For example, I have put a example text in Text Folder. And here is its content: 
 
-> <edit: c=red, b=white>My na<@edit><edit: c=yellow, b=blue>me is <@edit><edit: c=black, b=yellow>Chu Quang Huy<@edit>
+> <edit: c=yellow, b=red>Bring <@edit><edit: c=red, b=yellow>me <@edit><edit: c=Blue, b=black>T<@edit><edit: c=orange, b=black>H<@edit><edit: c=red, b=black>A<@edit><edit: c=green, b=black>N<@edit><edit: c=purple, b=black>O<@edit><edit: c=yellow, b=black>S<@edit>
 
 And here is the result:
 
