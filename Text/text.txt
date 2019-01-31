@@ -1,1 +1,1 @@
-<edit: c=red, b=white>My na<@edit><edit: c=yellow, b=blue>me is <@edit><edit: c=black, b=yellow>Chu Quang Huy<@edit>
+﻿<edit: c=yellow, b=red>Bring <@edit><edit: c=red, b=yellow>me <@edit><edit: c=Blue, b=black>T<@edit><edit: c=orange, b=black>H<@edit><edit: c=red, b=black>A<@edit><edit: c=green, b=black>N<@edit><edit: c=purple, b=black>O<@edit><edit: c=yellow, b=black>S<@edit>
