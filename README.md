@@ -24,4 +24,4 @@ And here is the result:
 3. Open `source` folder which contain 2 file: `source.py` and `source.pyc`: While the `source.py` is used for running on Command Line, the `source.pyc` is used for running on Python Virtual Machine.
 4. For both source file you will see the same window:
 
-
+![working window](https://github.com/CQHofsns/Python_Project_Text_To_Image/blob/master/For%20README.md/working%20window.png)
