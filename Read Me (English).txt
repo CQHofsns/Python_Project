@@ -38,6 +38,8 @@
 
 　　Also, all the text file must follow one format that show in my "text.txt" file which
     is already in Text Folder.
+
+    One more thing, the text file MUST BE save as UTF-8. 
 　　
 ４．Finally, in source folder, there are 2 type of file that you can run the program:
 	

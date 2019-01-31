@@ -37,13 +37,12 @@ def main():
 def text_image(file_text_name, font_path=None):
 
     text_folder = main_directory + '\Text'
-    for file in os.listdir(text_folder):
-        if file == file_text_name:
-            path = os.path.join(text_folder, file_text_name)
-            pass
-        else:
-            print('Can not find ' + file_text_name + 'in Text Folder, please make sure that you have saved text file in Text Folder')
-            break
+    if os.path.isfile(os.path.join(text_folder, file_text_name)):
+        print("Found" + file_text_name)
+        print('\n')
+        path = os.path.join(text_folder, file_text_name)
+    else:
+        print("Could not found any file name: " + file_text_name)
 
     # ----------------------------||| Define empty data for format and content |||-----------------------
 
@@ -108,7 +107,7 @@ def text_image(file_text_name, font_path=None):
     for i in range(len(Content_Data)):
         width = font.getsize(Content_Data[i])[0] - 5
         vertical_position = 0
-        horizontal_position = -1
+        horizontal_position = -2
         image = Image.new('RGBA', (width, max_height), Background_Color[i])
         draw = ImageDraw.Draw(image)
         draw.text((horizontal_position, vertical_position), Content_Data[i], fill=Font_Color[i], font=font)
