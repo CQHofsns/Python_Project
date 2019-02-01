@@ -69,7 +69,7 @@ xdg-open NotoSansCJKsc-Black.otf
 xdg-open NotoSansCJKtc-Black.otf
 
 cd ..
-cd $PWD/source
+cd $PWD/Main
 echo Generating Executable script
 cat >Run.sh<<EOF
 python3 source_Linux.py
