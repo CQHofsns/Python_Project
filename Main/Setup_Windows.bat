@@ -45,9 +45,9 @@ start NotoSansCJKsc-Black.otf
 start NotoSansCJKtc-Black.otf
 
 cd ..
-cd "%cd%\Main"
+cd "%cd%\source"
 
-@echo python %cd%\source.py > Run.bat
+@echo python %cd%\source_Windows.py > Run.bat
 @echo echo %cd% >> Run.bat
 @echo pause >> Run.bat
 
