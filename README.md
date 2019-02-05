@@ -17,7 +17,7 @@ And here is the result:
 **WARNING: My program currently just can convert 1 line text file, which mean 2 line above text file will not work !! (Sorry I still working on it  :sweat: )**
 
 ## How to run this program:
-**Note: _Before running this program, make sure you have Python ver3 in your computer.
+**Note: _Before running this program, make sure you have Python ver3 in your computer._**
 
 1. Open the "Main" Folder, click "Setup_Linux.sh" if you are using LinuxOS and "Setup_Windows.bat" if you are using WindowsOS. A Command Line Window/ Terminal Window will show up and start install required packages. After the installation has finished, you will see a Run.bat (WindowsOS)/ Run.sh (LinuxOS) is created.
 2. Make a text (.txt) file with above format and the content you want, then save it with **UTF-8 charater code**.
@@ -35,7 +35,7 @@ And here is the result:
  
 +Cons:
   1. The edit block must be **kept in the same order** with format: **<edit c:???, b:???>**, even the **wrong space** will cause an error.
-  2. Between 2 text block **must not have space** , if it have it will cause an error. :disappointed:	
+  2. Between 2 text block **must not have space** , if it had it will cause an error. :disappointed:	
   3. The Setup progress still not unified, may cause some uncomfortable for someone.
  
 ##   
